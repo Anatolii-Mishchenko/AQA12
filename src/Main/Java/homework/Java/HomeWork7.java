@@ -135,7 +135,7 @@ public class HomeWork7 {
                 table ++;
 
             }
-           System.out.println();
+            System.out.println();
         }
 
 
@@ -152,6 +152,7 @@ public class HomeWork7 {
 
 
     }
+
 
 
 
